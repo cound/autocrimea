@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1633460272361,
+  "timestamp": 1633468463718,
   "index": "/autocrimea/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/autocrimea/favicon.ico",
         "/autocrimea/index.html",
-        "/autocrimea/main.558f103e886322f9b579.js",
+        "/autocrimea/main.c77798f544f460f07147.js",
         "/autocrimea/manifest.webmanifest",
         "/autocrimea/polyfills.3d0f78c0be9bec7588df.js",
         "/autocrimea/runtime.ca92c33361f657c00f60.js",
@@ -200,8 +200,8 @@
     "/autocrimea/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
     "/autocrimea/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/autocrimea/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/autocrimea/index.html": "f29fcdf4d421231d2888676be074192077001d64",
-    "/autocrimea/main.558f103e886322f9b579.js": "47d939ce59f43d2dfe060b5ab88b927c262ff1c8",
+    "/autocrimea/index.html": "6652de4bce3a18c003815fb88af8487efd2e08bb",
+    "/autocrimea/main.c77798f544f460f07147.js": "35a658a68170261e830ca68944a0ab06531b7718",
     "/autocrimea/manifest.webmanifest": "fab84fbcfc219482503bab4b660d930faa3604c4",
     "/autocrimea/polyfills.3d0f78c0be9bec7588df.js": "c10f7d6b9b63d591ef55686f7fbda13dd041bdda",
     "/autocrimea/runtime.ca92c33361f657c00f60.js": "191254061e546ba499d768b7358aa201a7eef72e",
