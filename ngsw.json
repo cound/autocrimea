@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1633475200537,
+  "timestamp": 1633533451880,
   "index": "/autocrimea/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/autocrimea/favicon.ico",
         "/autocrimea/index.html",
-        "/autocrimea/main.096c23eab5c76af88bd4.js",
+        "/autocrimea/main.ffc9244d66299fb10109.js",
         "/autocrimea/manifest.webmanifest",
-        "/autocrimea/polyfills.3d0f78c0be9bec7588df.js",
-        "/autocrimea/runtime.ca92c33361f657c00f60.js",
-        "/autocrimea/styles.0f96aba8b7753b2cd520.js"
+        "/autocrimea/polyfills.72a00f22d847388866e1.js",
+        "/autocrimea/runtime.8dd3da924bc0bd2c1056.js",
+        "/autocrimea/styles.fa884d0b09b741ae58e3.js"
       ],
       "patterns": []
     },
@@ -200,12 +200,12 @@
     "/autocrimea/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
     "/autocrimea/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/autocrimea/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/autocrimea/index.html": "a46c84552394fac4573451d2471112d13accbe80",
-    "/autocrimea/main.096c23eab5c76af88bd4.js": "0eea4c6a8a015abebb5f73a5db5ffe159d6c08a8",
+    "/autocrimea/index.html": "58af6f71f92c015d1b435608d5d3e674f25161de",
+    "/autocrimea/main.ffc9244d66299fb10109.js": "985c2d4409b311e4d5d1fef29cd13e32cc686477",
     "/autocrimea/manifest.webmanifest": "fab84fbcfc219482503bab4b660d930faa3604c4",
-    "/autocrimea/polyfills.3d0f78c0be9bec7588df.js": "c10f7d6b9b63d591ef55686f7fbda13dd041bdda",
-    "/autocrimea/runtime.ca92c33361f657c00f60.js": "191254061e546ba499d768b7358aa201a7eef72e",
-    "/autocrimea/styles.0f96aba8b7753b2cd520.js": "9a8b0e4257469cef9c8aa1cdc3406c797085f38c"
+    "/autocrimea/polyfills.72a00f22d847388866e1.js": "b6a0351a3cd8e82924e890ca777f4225d772b20c",
+    "/autocrimea/runtime.8dd3da924bc0bd2c1056.js": "c86138b66146faebdc706b5efc017d821696aa45",
+    "/autocrimea/styles.fa884d0b09b741ae58e3.js": "11d742bcb13c16dbcff83cef7155967f6524958c"
   },
   "navigationUrls": [
     {
